@@ -1,0 +1,84 @@
+[2023-06-09T04:44:11.407Z] error: Failed to get users
+[2023-06-09T06:03:22.185Z] error: Failed to get users
+[2023-06-09T13:32:59.660Z] error: Failed to get users
+[2023-06-09T13:39:43.365Z] error: Failed to get users
+[2023-06-09T13:39:43.480Z] error: Failed to get users
+[2023-06-09T13:41:54.489Z] error: Failed to get users
+[2023-06-10T04:13:29.471Z] error: JWT verification failed: jwt expired
+[2023-06-10T04:13:29.492Z] error: JWT verification failed: jwt expired
+[2023-06-12T11:55:54.301Z] error: JWT verification failed: jwt expired
+[2023-06-12T11:55:54.343Z] error: JWT verification failed: jwt expired
+[2023-06-12T11:55:54.370Z] error: JWT verification failed: jwt expired
+[2023-06-12T11:55:54.376Z] error: JWT verification failed: jwt expired
+[2023-06-12T11:55:54.392Z] error: JWT verification failed: jwt expired
+[2023-06-12T11:55:54.398Z] error: JWT verification failed: jwt expired
+[2023-06-13T07:19:49.903Z] error: Failed to generate profit/loss report: getaddrinfo ENOTFOUND ac-x3lgplv-shard-00-01.y6geent.mongodb.net
+[2023-06-13T07:19:49.913Z] error: Failed to get accounts
+[2023-06-13T07:20:07.959Z] error: Failed to connect to MongoDB: querySrv ECONNREFUSED _mongodb._tcp.kibaccounting.y6geent.mongodb.net
+[2023-06-13T07:20:32.502Z] error: Failed to login user: Operation `users.findOne()` buffering timed out after 10000ms
+[2023-06-13T07:20:46.248Z] error: Failed to login user: Operation `users.findOne()` buffering timed out after 10000ms
+[2023-06-13T07:22:54.126Z] error: Failed to login user: Operation `users.findOne()` buffering timed out after 10000ms
+[2023-06-13T07:23:39.101Z] error: Failed to login user: Operation `users.findOne()` buffering timed out after 10000ms
+[2023-06-13T16:56:03.622Z] error: Failed to get accounts
+[2023-06-20T16:37:21.039Z] error: JWT verification failed: jwt expired
+[2023-06-20T16:37:21.096Z] error: JWT verification failed: jwt expired
+[2023-06-20T16:37:21.176Z] error: JWT verification failed: jwt expired
+[2023-06-20T16:37:21.184Z] error: JWT verification failed: jwt expired
+[2023-06-20T16:37:21.198Z] error: JWT verification failed: jwt expired
+[2023-06-20T16:37:21.207Z] error: JWT verification failed: jwt expired
+[2023-06-21T07:09:40.126Z] error: User not found
+[2023-06-21T07:10:33.999Z] error: User not found
+[2023-06-21T07:11:22.493Z] error: User not found
+[2023-06-21T07:11:23.648Z] error: User not found
+[2023-06-21T07:11:24.198Z] error: User not found
+[2023-06-21T07:11:24.474Z] error: User not found
+[2023-06-21T07:11:24.669Z] error: User not found
+[2023-06-21T07:11:24.890Z] error: User not found
+[2023-06-21T07:11:25.085Z] error: User not found
+[2023-06-21T07:12:32.651Z] error: User not found
+[2023-06-21T07:12:33.473Z] error: User not found
+[2023-06-21T07:12:33.862Z] error: User not found
+[2023-06-21T07:12:34.068Z] error: User not found
+[2023-06-21T07:12:34.250Z] error: User not found
+[2023-06-21T07:12:34.434Z] error: User not found
+[2023-06-21T07:12:34.621Z] error: User not found
+[2023-08-02T12:27:21.618Z] error: JWT verification failed: jwt malformed
+[2023-08-02T12:27:21.659Z] error: JWT verification failed: jwt malformed
+[2023-08-02T12:27:21.666Z] error: JWT verification failed: jwt malformed
+[2023-08-02T12:27:21.681Z] error: JWT verification failed: jwt malformed
+[2023-08-02T12:27:31.232Z] error: User not found
+[2023-08-02T12:27:41.324Z] error: User not found
+[2023-08-02T12:27:43.841Z] error: User not found
+[2023-08-02T12:27:52.423Z] error: User not found
+[2023-08-02T12:46:17.139Z] error: User not found
+[2023-08-02T12:46:19.013Z] error: User not found
+[2023-08-02T12:57:41.593Z] error: User not found
+[2023-08-02T12:57:47.681Z] error: Invalid password
+[2023-08-02T12:58:17.234Z] error: Invalid password
+[2023-08-02T13:00:43.809Z] error: Failed to connect to MongoDB: queryTxt ESERVFAIL accounting.ngpiqtg.mongodb.net
+[2023-08-03T03:00:04.518Z] error: Failed to connect to MongoDB: queryTxt ESERVFAIL accounting.ngpiqtg.mongodb.net
+[2023-08-03T03:20:02.807Z] error: JWT verification failed: jwt malformed
+[2023-08-03T03:20:02.861Z] error: JWT verification failed: jwt malformed
+[2023-08-03T03:20:02.872Z] error: JWT verification failed: jwt malformed
+[2023-08-03T03:20:02.879Z] error: JWT verification failed: jwt malformed
+[2023-08-03T03:20:15.954Z] error: Failed to connect to MongoDB: queryTxt ESERVFAIL accounting.ngpiqtg.mongodb.net
+[2023-08-03T03:26:41.284Z] error: Failed to login user: Operation `users.findOne()` buffering timed out after 10000ms
+[2023-08-03T03:26:48.953Z] error: Failed to connect to MongoDB: queryTxt ESERVFAIL accounting.ngpiqtg.mongodb.net
+[2023-08-03T03:27:13.200Z] error: Failed to login user: Operation `users.findOne()` buffering timed out after 10000ms
+[2023-08-03T03:27:26.516Z] error: Failed to connect to MongoDB: queryTxt ESERVFAIL accounting.ngpiqtg.mongodb.net
+[2023-08-03T03:28:36.883Z] error: Failed to connect to MongoDB: queryTxt ESERVFAIL accounting.ngpiqtg.mongodb.net
+[2023-08-03T03:28:36.903Z] error: Failed to login user: Operation `users.findOne()` buffering timed out after 10000ms
+[2023-08-03T03:31:00.708Z] error: Failed to login user: Operation `users.findOne()` buffering timed out after 10000ms
+[2023-08-03T03:31:17.198Z] error: Failed to connect to MongoDB: queryTxt ESERVFAIL accounting.ngpiqtg.mongodb.net
+[2023-08-03T03:32:15.703Z] error: Failed to login user: Operation `users.findOne()` buffering timed out after 10000ms
+[2023-08-03T03:35:02.016Z] error: Failed to login user: Operation `users.findOne()` buffering timed out after 10000ms
+[2023-08-03T03:35:17.132Z] error: Failed to connect to MongoDB: queryTxt ESERVFAIL accounting.ngpiqtg.mongodb.net
+[2023-08-03T03:38:34.121Z] error: Failed to login user: Operation `users.findOne()` buffering timed out after 10000ms
+[2023-08-03T03:38:41.662Z] error: Failed to connect to MongoDB: queryTxt ESERVFAIL accounting.ngpiqtg.mongodb.net
+[2023-08-03T03:40:25.482Z] error: Failed to connect to MongoDB: queryTxt ESERVFAIL accounting.ngpiqtg.mongodb.net
+[2023-08-03T03:41:06.077Z] error: Failed to connect to MongoDB: queryTxt ESERVFAIL accounting.ngpiqtg.mongodb.net
+[2023-08-03T03:43:08.420Z] error: Failed to connect to MongoDB: mongodb+srv URI cannot have port number
+[2023-08-03T03:47:42.854Z] error: Failed to connect to MongoDB: queryTxt ESERVFAIL accounting.ngpiqtg.mongodb.net
+[2023-08-03T03:49:55.467Z] error: Failed to connect to MongoDB: queryTxt ESERVFAIL accounting.ngpiqtg.mongodb.net
+[2023-08-03T03:51:31.990Z] error: Failed to connect to MongoDB: queryTxt ESERVFAIL accounting.ngpiqtg.mongodb.net
+[2023-08-03T03:54:14.881Z] error: Failed to connect to MongoDB: queryTxt ESERVFAIL accounting.ngpiqtg.mongodb.net
